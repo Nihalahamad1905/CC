@@ -1,0 +1,17 @@
+Experiment No 6
+What are selective re-test techniques? How are they different from the ‘retest all’ technique? 
+Discuss the priority category schemes for the prioritization of test cases. What is the role of risk matrix for the reduction of test cases? 
+How is risk analysis used in testing? How can we prioritize test cases using risk factor? 
+What is a risk matrix? How do we assign thresholds that group the potential problems into priority categories? 
+Explain the following: (a) Modification traversing test cases (b) Modification revealing test cases 
+What is the difference between general test case prioritization and version specific test case prioritization? Discuss any prioritization technique with the help of an example. 
+Explain the ‘code coverage prioritization’ technique. What are the test cases selection criteria? Write the modification algorithm which is used to minimize and prioritize test cases
+
+
+Assignment No 7
+What are the various levels of testing? Explain the objectives of every level. Who should do testing at every level and why? 
+What is scaffolding? Why do we use stubs and drivers during unit testing? 
+What are the various steps to minimize the coupling amongst various units? Discuss different types of coupling from the best coupling to the worst coupling. 
+ Compare the top down and bottom up integration testing approaches to test a program. 
+What is debugging? What are the popular debugging approaches? Write features of these techniques and compare the important features. 
+Explain the significance of debugging tools. List some commercially available debugging tools. 
